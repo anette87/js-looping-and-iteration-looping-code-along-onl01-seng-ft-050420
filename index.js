@@ -17,4 +17,4 @@ while (countDown >= 1) {
   console.log(countDown = countDown-1);
 }
 
-
+countDown(10)
