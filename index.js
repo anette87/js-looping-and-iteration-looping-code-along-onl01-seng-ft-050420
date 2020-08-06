@@ -18,4 +18,4 @@ function countDown(number)
   console.log(countDown = countDown-1);
 }
 
-countDown(10)
+countDown(number)
